@@ -1,2 +1,1 @@
-# vedika-chandra
-Config files for my GitHub profile
+# Hi I'm Vedika Chandra
