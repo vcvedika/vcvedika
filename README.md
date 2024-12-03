@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi! I'm Vedika Chandra ✨</h1>
 
-- I am a Computer Science and Engineering Undergraduate at the IIT (BHU) Varanasi
+- I am a Computer Science and Engineering student from IIT (BHU) Varanasi
 
-- I have a huge inclination towards exploring and developing some cool stuffs
+- I have a huge inclination towards exploring and developing cool stuffs
 
 - You can reach me out at vcvedikachandra@gmail.com 
 
